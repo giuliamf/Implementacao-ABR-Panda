@@ -2,3 +2,7 @@ numpy
 matplotlib
 scipy
 seaborn
+requests
+psutil
+xml
+matplotlib
