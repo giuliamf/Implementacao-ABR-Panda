@@ -12,7 +12,7 @@ O projeto é desenvolvido sobre a plataforma **pyDash**, uma ferramenta que simu
 
 ## Estrutura do Projeto
 
-- **r2a/probe_and_adapt.py**: Implementação do algoritmo ABR `Probe and Adapt`.
+- **r2a/r2apanda.py**: Implementação do algoritmo ABR `Probe and Adapt`.
 - **dash_client.json**: Arquivo de configuração que define os parâmetros do ambiente de execução e o algoritmo ABR a ser utilizado.
 - **results/**: Diretório onde os resultados das execuções (estatísticas e gráficos) são armazenados.
 - **docs/**: Documentação adicional do projeto, incluindo relatórios técnicos e apresentações.
